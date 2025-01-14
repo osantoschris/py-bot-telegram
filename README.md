@@ -1,4 +1,4 @@
-# Bot Telegram - Funcionalidades Avançadas
+# Bot Telegram - Funcionalidades
 
 Este projeto é um bot do Telegram construído com a biblioteca `python-telegram-bot`. O bot oferece diversas funcionalidades, como pesquisa no Google, integração com o modelo generativo Gemini, tradução automática e interação em grupos. Além disso, o projeto conta com suporte a Docker para facilitar a implantação.
 
